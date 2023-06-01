@@ -1,5 +1,5 @@
 {
-  "name": "insta-info",
+  "name": "@doctorpok/insta-info",
   "version": "1.0.0",
   "description": "",
   "main": "bot.ts",

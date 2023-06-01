@@ -7,5 +7,5 @@ This is a simple Instagram package that allows you to get information about a us
 ## Installation
 
 ```bash
-npm i insta-info
+npm i @doctorpok/insta-info
 ```
