@@ -1,0 +1,11 @@
+# node modules
+node_modules/
+
+# build directory
+build/
+
+# local env files
+.env.local
+
+# check
+checks.json
