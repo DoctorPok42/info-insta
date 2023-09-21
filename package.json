@@ -1,26 +1,23 @@
 {
   "name": "info-insta",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
-  "main": "bot.ts",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "tsc -w"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DoctorPok42/Insta-Info.git"
+    "url": "git+https://github.com/DoctorPok42/info-insta.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DoctorPok42/Insta-Info/issues"
+    "url": "https://github.com/DoctorPok42/info-insta/issues"
   },
-  "homepage": "https://github.com/DoctorPok42/Insta-Info#readme",
+  "homepage": "https://github.com/DoctorPok42/info-insta#readme",
   "devDependencies": {
     "@types/fs-extra": "^11.0.1",
     "@types/lodash": "^4.14.194",

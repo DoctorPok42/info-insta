@@ -1,4 +1,4 @@
-# Insta-Info
+# info-insta
 
 ## Description
 
